@@ -1,0 +1,65 @@
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiIyNzhmMzAzMTJhMDc5MjBhNThiNjFjN2IxZmFmYjRmNCIsImlhdCI6MTcyNTQwNzA0NywiZXhwIjoxNzI1NDEwNjQ3fQ.h25dVCsGoR8Pi_KPn8_pEYXftG8YbmbrmOC7d_1W_7g
+Q: no
+A: I don't believe this query is related. Did you have any other questions? 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiIyNzhmMzAzMTJhMDc5MjBhNThiNjFjN2IxZmFmYjRmNCIsImlhdCI6MTcyNTQwNzA0NywiZXhwIjoxNzI1NDEwNjQ3fQ.h25dVCsGoR8Pi_KPn8_pEYXftG8YbmbrmOC7d_1W_7g
+Q: hi
+A: How may I assist you today? 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiIyNzhmMzAzMTJhMDc5MjBhNThiNjFjN2IxZmFmYjRmNCIsImlhdCI6MTcyNTQwNzA0NywiZXhwIjoxNzI1NDEwNjQ3fQ.h25dVCsGoR8Pi_KPn8_pEYXftG8YbmbrmOC7d_1W_7g
+Q: tell me about the social impact grant
+A: The UTS Social Impact Grants fund projects that positively impact the university and wider community. Projects must focus on one of two areas:
+
+* **Safe and Inclusive UTS:** Projects that support UTS students and staff from various equity groups, creating a welcoming and supportive campus. This could include projects for students from low-SES backgrounds, rural areas, First Nations students and staff, CARM communities, people with disabilities, LGBTIQA+ communities, and women.
+* **Thriving Communities:** Projects must involve a partnership between the university and the external community and address social, health, or environmental challenges aimed at making a positive impact on the wider community.
+
+Do you have any other questions about the Social Impact Grant? 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiIyNzhmMzAzMTJhMDc5MjBhNThiNjFjN2IxZmFmYjRmNCIsImlhdCI6MTcyNTQwNzA0NywiZXhwIjoxNzI1NDEwNjQ3fQ.h25dVCsGoR8Pi_KPn8_pEYXftG8YbmbrmOC7d_1W_7g
+Q: no i dont
+A: Goodbye 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiIzZjhjMzM5ZGZlNjhlNTkzMWJlNjI4MTExZTZhZDcyZCIsImlhdCI6MTcyNTQwNzEzNiwiZXhwIjoxNzI1NDEwNzM2fQ.hNvROsvMRKhmHDqSHQUCvSLlQKFc1yCgi6hxjN5geAM
+Q: hi
+A: How can I assist you today regarding the UTS Social Impact Grant? 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiIzZjhjMzM5ZGZlNjhlNTkzMWJlNjI4MTExZTZhZDcyZCIsImlhdCI6MTcyNTQwNzEzNiwiZXhwIjoxNzI1NDEwNzM2fQ.hNvROsvMRKhmHDqSHQUCvSLlQKFc1yCgi6hxjN5geAM
+Q: What is the theme for the Social Impact Grants this year?
+A: The Social Impact Grants support projects (research and/or practical initiatives) that make a positive difference on campus and in the wider community. To apply, your project must focus on one of these areas:
+
+* **Safe and Inclusive UTS:** projects that support UTS students and staff from various equity groups and aim to create a welcoming and supportive campus. 
+* **Thriving Communities:** projects must involve a partnership between the university and the external community and address social, health, or environmental challenges aimed at making a positive impact on the wider community. 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiIzZjhjMzM5ZGZlNjhlNTkzMWJlNjI4MTExZTZhZDcyZCIsImlhdCI6MTcyNTQwNzEzNiwiZXhwIjoxNzI1NDEwNzM2fQ.hNvROsvMRKhmHDqSHQUCvSLlQKFc1yCgi6hxjN5geAM
+Q: okthanks
+A: You're welcome! Do you have any further questions about the UTS Social Impact Grant? 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiIzZjhjMzM5ZGZlNjhlNTkzMWJlNjI4MTExZTZhZDcyZCIsImlhdCI6MTcyNTQwNzEzNiwiZXhwIjoxNzI1NDEwNzM2fQ.hNvROsvMRKhmHDqSHQUCvSLlQKFc1yCgi6hxjN5geAM
+Q: no
+A: Goodbye 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiIzZjhjMzM5ZGZlNjhlNTkzMWJlNjI4MTExZTZhZDcyZCIsImlhdCI6MTcyNTQwNzEzNiwiZXhwIjoxNzI1NDEwNzM2fQ.hNvROsvMRKhmHDqSHQUCvSLlQKFc1yCgi6hxjN5geAM
+Q: what can i apply for?
+A: You can apply for a UTS Social Impact Grant if your project focuses on either:
+
+* **Safe and Inclusive UTS:**  This category supports projects that aim to create a welcoming and supportive campus environment for diverse equity groups, including students from low-SES backgrounds, rural/regional/remote areas, First Nations students and staff, CARM communities, people with disability, LGBTIQA+ communities, and women. 
+* **Thriving Communities:** This category supports projects that involve a partnership with an external community organization and address social, health, or environmental challenges. The project should aim to make a positive impact on the wider community. 
+
+Remember, projects in the "Thriving Communities" category **must** include a community partner, while projects in the "Safe and Inclusive UTS" category do not need a community partner. 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiIzZjhjMzM5ZGZlNjhlNTkzMWJlNjI4MTExZTZhZDcyZCIsImlhdCI6MTcyNTQwNzEzNiwiZXhwIjoxNzI1NDEwNzM2fQ.hNvROsvMRKhmHDqSHQUCvSLlQKFc1yCgi6hxjN5geAM
+Q: how many trees are in the world
+A: I don't believe this query is related. Did you have any other questions about the UTS Social Impact Grant? 
+
+
