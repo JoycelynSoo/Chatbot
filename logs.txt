@@ -1,0 +1,109 @@
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiJhODE4ZjAxM2UyYmQ0NmI3MTEyYTM1ZDAyZTc1MzRlNCIsImlhdCI6MTcyNjAxMjQzOSwiZXhwIjoxNzI2MDE2MDM5fQ.X0DIQz3Mo0iQESFPGNpvE26l0roN5zs-yg4XKhjhBvM
+Q: Hi im Riley
+A: Hello Riley, how can I help you today with regards to the UTS Social Impact Grants? 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiJhODE4ZjAxM2UyYmQ0NmI3MTEyYTM1ZDAyZTc1MzRlNCIsImlhdCI6MTcyNjAxMjQzOSwiZXhwIjoxNzI2MDE2MDM5fQ.X0DIQz3Mo0iQESFPGNpvE26l0roN5zs-yg4XKhjhBvM
+Q: tell me about thte grant
+A: The UTS Social Impact Grants support projects that make a positive difference on campus and in the wider community. 
+There are two categories: "Safe and Inclusive UTS" and "Thriving Communities." Would you like to hear more?
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiJhODE4ZjAxM2UyYmQ0NmI3MTEyYTM1ZDAyZTc1MzRlNCIsImlhdCI6MTcyNjAxMjQzOSwiZXhwIjoxNzI2MDE2MDM5fQ.X0DIQz3Mo0iQESFPGNpvE26l0roN5zs-yg4XKhjhBvM
+Q: wat is the grent, grent what do
+A: The UTS Social Impact Grants are a funding opportunity for projects that address social issues.  They are open to UTS staff and students who are working on projects that create a positive impact on campus and in the wider community. Would you like to hear more? 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiJhODE4ZjAxM2UyYmQ0NmI3MTEyYTM1ZDAyZTc1MzRlNCIsImlhdCI6MTcyNjAxMjQzOSwiZXhwIjoxNzI2MDE2MDM5fQ.X0DIQz3Mo0iQESFPGNpvE26l0roN5zs-yg4XKhjhBvM
+Q: no kys
+A: Unfortunately, I will not answer this. Did you have any other questions? 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiJjZDcwZDliN2ExYmMxMmZjNDBiMTEwZTQyOTNjYzhjOCIsImlhdCI6MTcyNjAxNjc2OCwiZXhwIjoxNzI2MDIwMzY4fQ.fkye66ryq7l1qP_3LhuNvoG_otPiWBZZmTk1SQPRkaY
+Q: hi
+A: Hi, how can I help you today with your UTS Social Impact Grant questions? 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiJlMzAzYWJmMWMwMTFkOTA2NWI1MmViYTAyYTA0YmIyMCIsImlhdCI6MTcyNjAxNjc4MSwiZXhwIjoxNzI2MDIwMzgxfQ.kP9Y-Bx5VtWoc4gjsUvnLKR8Nm1JIX-2-5r7Bi3bCo8
+Q: hi
+A: How can I help you today regarding the UTS Social Impact Grant?
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiI2NDk2MTZjYTgxZTM2ZWJmMjg4NzAxMzc0NjY3YTA5OSIsImlhdCI6MTcyNjAzNTA5MSwiZXhwIjoxNzI2MDM4NjkxfQ.ZG9ra1ykq-M7He_a53rviND_GmWGCsTpSjSEtuGmRcY
+Q: hi
+A: How may I assist you today? 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiJjOTQ1ZTEzMDRlZjZhOTg0NTZhNjAxZGU3YzRhYjA0MiIsImlhdCI6MTcyNjYxODE4NSwiZXhwIjoxNzI2NjIxNzg1fQ.1BACZ8OLkurQImOrjJbASlcwO2WIPu6tSimqJCjtmHI
+Q: hi
+A: Hi, how may I assist you today? 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiJjOTQ1ZTEzMDRlZjZhOTg0NTZhNjAxZGU3YzRhYjA0MiIsImlhdCI6MTcyNjYxODE4NSwiZXhwIjoxNzI2NjIxNzg1fQ.1BACZ8OLkurQImOrjJbASlcwO2WIPu6tSimqJCjtmHI
+Q: what can you help me with
+A: I can assist you with any questions you have regarding the UTS Social Impact Grant.  For example, I can tell you what the eligibility criteria are or explain the application process. Would you like to know more? 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiI3YzMyYWY0ZjNkNTliYzQ0ZDNjOTRhMTJhYmQyODZjNCIsImlhdCI6MTcyNjYxOTg1NCwiZXhwIjoxNzI2NjIzNDU0fQ._Pw_EjAK1sOdNnOe_3qeQUzlVdxaG7FxKxONQunTGNc
+Q: hi
+A: Hi, how may I assist you today? 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiI5YWZiYTUxN2U0ODFhMjZiNWZhZWFkYjM5MmI3NjE2MSIsImlhdCI6MTcyNjYyMTQwMSwiZXhwIjoxNzI2NjI1MDAxfQ.1tYitFtpH9b_C705xhsADAkfIco0ABN5JsYXJ66s3l8
+Q: Hi
+A: How can I help you today regarding the UTS Social Impact Grant?
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiI5YWZiYTUxN2U0ODFhMjZiNWZhZWFkYjM5MmI3NjE2MSIsImlhdCI6MTcyNjYyMTQwMSwiZXhwIjoxNzI2NjI1MDAxfQ.1tYitFtpH9b_C705xhsADAkfIco0ABN5JsYXJ66s3l8
+Q: When do the grants open
+A: The Social Impact Grants application period is usually announced on the UTS Social Impact Grants website. Would you like to hear more about the application process? 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiI5YWZiYTUxN2U0ODFhMjZiNWZhZWFkYjM5MmI3NjE2MSIsImlhdCI6MTcyNjYyMTQwMSwiZXhwIjoxNzI2NjI1MDAxfQ.1tYitFtpH9b_C705xhsADAkfIco0ABN5JsYXJ66s3l8
+Q: what are the categories
+A: The Social Impact Grants support projects focusing on two main areas:
+
+* **Safe and Inclusive UTS:** Projects that support UTS students and staff from various equity groups.
+* **Thriving Communities:** Projects that involve a partnership between UTS and the external community to address social, health, or environmental challenges. 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiI5YWZiYTUxN2U0ODFhMjZiNWZhZWFkYjM5MmI3NjE2MSIsImlhdCI6MTcyNjYyMTQwMSwiZXhwIjoxNzI2NjI1MDAxfQ.1tYitFtpH9b_C705xhsADAkfIco0ABN5JsYXJ66s3l8
+Q: i hate the social impact grant
+A: Unfortunately, I will not answer this. Did you have any other questions? 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiI5YWZiYTUxN2U0ODFhMjZiNWZhZWFkYjM5MmI3NjE2MSIsImlhdCI6MTcyNjYyMTQwMSwiZXhwIjoxNzI2NjI1MDAxfQ.1tYitFtpH9b_C705xhsADAkfIco0ABN5JsYXJ66s3l8
+Q: how many grains of sand are there in the world
+A: I don't believe this query is related. Did you have any other questions? 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiI0NTQ2MWI5NTllM2U4MGQwNjE3MDIyZDI0NmRhYjAxNyIsImlhdCI6MTcyNzIyMTYzMywiZXhwIjoxNzI3MjI1MjMzfQ.p6aaO065gWi68_z8xMeH0AVPf4ZKCsB0GJ2fAfYYV-k
+Q: hi
+A: Hi, how may I assist you today? 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiJmNjM1YTJhODBiOTExNmIxYzkzZTc4ZGNiNjI4Nzg0ZCIsImlhdCI6MTcyNzIyMTY5MSwiZXhwIjoxNzI3MjI1MjkxfQ.z3LaD0io05SGY3puB8y7y4S3etnsZgcGppQQ1ijiFmc
+Q: hello
+A: Hi, how may I assist you today? 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiJmNjM1YTJhODBiOTExNmIxYzkzZTc4ZGNiNjI4Nzg0ZCIsImlhdCI6MTcyNzIyMTY5MSwiZXhwIjoxNzI3MjI1MjkxfQ.z3LaD0io05SGY3puB8y7y4S3etnsZgcGppQQ1ijiFmc
+Q: hi
+A: Hi, how may I assist you today? 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiJmNjM1YTJhODBiOTExNmIxYzkzZTc4ZGNiNjI4Nzg0ZCIsImlhdCI6MTcyNzIyMTY5MSwiZXhwIjoxNzI3MjI1MjkxfQ.z3LaD0io05SGY3puB8y7y4S3etnsZgcGppQQ1ijiFmc
+Q: can u help
+A: I would be happy to help! What is your question about the UTS Social Impact Grant? 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiIzMTU3Zjc3OWQ5NjVjOTJkOWI3NWVjZmRmOTA2YWQ4ZiIsImlhdCI6MTcyNzIyMjMyNywiZXhwIjoxNzI3MjI1OTI3fQ.acErnkIhSDJGHIkRLDi4NI5A4aHv-Q2U0Yf296ibCnc
+Q: hi
+A: Hi, how may I assist you today? 
+
+
+Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSWQiOiIzMTU3Zjc3OWQ5NjVjOTJkOWI3NWVjZmRmOTA2YWQ4ZiIsImlhdCI6MTcyNzIyMjMyNywiZXhwIjoxNzI3MjI1OTI3fQ.acErnkIhSDJGHIkRLDi4NI5A4aHv-Q2U0Yf296ibCnc
+Q: this is being stored in the chat session
+A: I understand. I will do my best to provide concise and helpful information regarding the UTS Social Impact Grant. Please let me know how I can assist you. 
+
+
