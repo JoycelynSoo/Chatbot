@@ -285,3 +285,94 @@
 .login_button:hover {
   background-color: #2968ba;
 }
+
+@media (max-width: 768px) {
+  .faq-management {
+    padding: 20px;
+  
+  }
+
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .logout-button {
+    position: static;
+    width: 40%;
+    margin-top: 10px;
+    font-size: 0.9rem;
+    border: 2px solid black; 
+    border-radius: 5px;   
+    align-self: flex-end; 
+    
+  }
+
+  .faq-header {
+    flex-direction: column;
+    align-items: left;
+    gap: 10px;
+  }
+  .faq-header h3 {
+    align-items: left;
+  }
+
+ 
+  .add-faq-button {
+    padding: 10px 16px;
+    width: 40%;
+    font-size: 0.9rem;
+    align-self: flex-end; 
+  }
+
+  .faq-container {
+    max-width: none;
+    width: 100%; 
+  }
+
+  .faq-item {
+    flex-direction: column;
+    text-align: left;
+    padding: 5px;
+    width: 90%; 
+    margin: 0 auto; 
+    margin-bottom: 15px; 
+
+  }
+  
+  .faq-item strong {
+    font-size: 1rem;
+  }
+
+  .faq-actions {
+    justify-content: center;
+    margin-top: 10px;
+  }
+
+  .modal-content {
+    max-width: 90%;
+    padding: 20px;
+  }
+
+  .login_body {
+    padding-right: 2%;
+  }
+
+  .login_form {
+    width: 90%;
+    padding: 20px;
+  }
+
+  .login_title {
+    font-size: 1.8rem;
+  }
+
+  .login_input_box input {
+    font-size: 1rem;
+  }
+
+  .login_button {
+    font-size: 1rem;
+    padding: 10px 0;
+  }
+}
